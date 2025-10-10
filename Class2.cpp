@@ -40,18 +40,18 @@ int main(){
 
 
 
-#include <iostream>
-using namespace std;
-int main()
-{
-    int a=1, b=10;
+// #include <iostream>
+// using namespace std;
+// int main()
+// {
+//     int a=1, b=10;
     
-    for(; a<b; a++)
-    {
-        b--;
-    }
+//     for(; a<b; a++)
+//     {
+//         b--;
+//     }
 
-    cout << a << " " <<b;
+//     cout << a << " " <<b;
     
-    return 0;
-}
+//     return 0;
+// }
